@@ -10,3 +10,8 @@ $RECYCLE.BIN/
 
 # Windows shortcuts
 *.lnk
+
+### REAPER
+# Project backup files
+*.rpp-bak
+backup/
